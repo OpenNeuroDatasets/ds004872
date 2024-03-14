@@ -1,0 +1,20 @@
+{
+    "SamplingFrequency": 1.0,
+    "Columns": [
+        "Happiness",
+        "Fear",
+        "Regard",
+        "Anxiety",
+        "Satisfaction",
+        "Pride",
+        "Surprise",
+        "Love",
+        "Sad",
+        "Jaw",
+        "EyesOpen",
+        "Breathing",
+        "Movement",
+        "Consequences"
+    ],
+    "StartTime": 0
+}
